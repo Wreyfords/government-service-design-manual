@@ -26,10 +26,9 @@ breadcrumbs:
 
 | Cohort   | Dates                                                |
 |----------|------------------------------------------------------|
-| Cohort 1 | 22nd, 23rd, 24th, 29th, 30th September & 1st October |
-| Cohort 2 | 20th, 21st, 22nd, 27th, 28th, 29th October           |
-| Cohort 3 | 3rd, 4th, 5th, 10th, 11th, 12th November             |
-| Cohort 4 | 1st, 2nd, 3rd, 8th, 9th, 10th December               |
+| Cohort 5 | 5th, 6th, 7th, 12, 13th, 14th January           | 
+| Cohort 6 | 2nd, 3rd, 4th, 9th, 10th, 11th February           |
+| Cohort 7 | 1st, 2nd, 3rd, 8th, 9th, 10th March             |
 
 #Who should take part
 
